@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyApps</string>
+    <string name="login_text">Login</string>
+    <string name="password_edittext">Password</string>
+    <string name="button_signin">Sign in</string>
+    <string name="text_dont_have_Acc">Dont have an account?</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+</resources>
